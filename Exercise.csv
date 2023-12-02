@@ -1,136 +1,138 @@
 Age,Gender,Fitness-Level,Health Condition,Fitness Goal,Calories Intake,BMI,Exercise,Exercise Recommended
-25,Male,Intermediate,Good,Weight Loss,2000,24.5,Cardio,Plank
-30,Female,Advanced,Excellent,Muscle Gain,2500,21.0,Strength Training,Right arm biceps curl
-35,Male,Beginner,Fair,General Fitness,1800,28.0,Cardio,Squats
-40,Female,Intermediate,Good,Weight Loss,2000,26.3,Cardio,Left arm biceps curl
-45,Male,Advanced,Excellent,Muscle Gain,2500,22.1,Strength Training,Both arms biceps curl
-28,Female,Beginner,Good,General Fitness,1800,25.0,Cardio,Plank
-32,Male,Intermediate,Excellent,Muscle Gain,2500,23.8,Strength Training,Crunches
-37,Female,Beginner,Fair,Weight Loss,1900,27.4,Cardio,Squats
-42,Male,Advanced,Good,General Fitness,2200,24.9,Cardio,Left arm biceps curl
-27,Female,Intermediate,Excellent,Weight Loss,2000,22.7,Cardio,Both arms biceps curl
-30,Male,Advanced,Good,Muscle Gain,2300,25.5,Strength Training,Plank
-35,Female,Beginner,Fair,General Fitness,1900,29.8,Cardio,Right arm biceps curl
-40,Male,Intermediate,Excellent,Weight Loss,2100,26.0,Cardio,Plank
-45,Female,Advanced,Good,Muscle Gain,2400,23.3,Strength Training,Crunches
-28,Male,Beginner,Fair,General Fitness,1700,30.2,Cardio,Squats
-32,Female,Intermediate,Excellent,Weight Loss,2200,24.6,Cardio,Left arm biceps curl
-37,Male,Advanced,Good,Muscle Gain,2600,22.4,Strength Training,Both arms biceps curl
-42,Female,Beginner,Good,General Fitness,2000,27.7,Cardio,Plank
-27,Male,Intermediate,Excellent,Weight Loss,1900,23.0,Cardio,Crunches
-30,Female,Advanced,Good,Muscle Gain,2400,25.8,Strength Training,Right arm biceps curl
-35,Male,Beginner,Fair,General Fitness,1800,28.5,Cardio,Squats
-40,Female,Intermediate,Excellent,Weight Loss,2100,26.8,Cardio,Plank
-45,Male,Advanced,Good,Muscle Gain,2500,22.8,Strength Training,Both arms biceps curl
-28,Female,Beginner,Good,General Fitness,1700,29.0,Cardio,Left arm biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2000,25.2,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2300,23.6,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1900,30.5,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,24.3,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2400,25.0,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1800,28.9,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2200,26.5,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.0,Strength Training,Right arm biceps curl
-28,Male,Beginner,Good,General Fitness,1800,29.8,Cardio,Squats
-32,Female,Intermediate,Excellent,Weight Loss,2100,25.5,Cardio,Plank
-37,Male,Advanced,Good,Muscle Gain,2400,23.3,Strength Training,Both arms biceps curl
-42,Female,Beginner,Fair,General Fitness,2000,28.2,Cardio,Left arm biceps curl
-27,Male,Intermediate,Excellent,Weight Loss,2000,23.5,Cardio,Plank
-30,Female,Advanced,Good,Muscle Gain,2500,24.2,Strength Training,Crunches
-35,Male,Beginner,Fair,General Fitness,1900,30.0,Cardio,Squats
-40,Female,Intermediate,Excellent,Weight Loss,2300,26.0,Cardio,Plank
-45,Male,Advanced,Good,Muscle Gain,2600,22.5,Strength Training,Right arm biceps curl
-28,Female,Beginner,Good,General Fitness,1700,28.5,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-28,Female,Beginner,Good,General Fitness,1800,29.0,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-28,Female,Beginner,Good,General Fitness,1700,28.5,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-28,Female,Beginner,Good,General Fitness,1700,28.5,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-20,Male,Beginner,Good,Muscle Gain,1900,25.3,Cardio,Squats
-20,Male,Intermediate,Good,Weight Loss,2600,29.8,Cardio,Crunches
-20,Male,Intermediate,Good,Weight Loss,2500,27.8,Cardio,Crunches
-28,Female,Beginner,Good,General Fitness,1800,29.0,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-28,Female,Beginner,Good,General Fitness,1700,28.5,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-28,Female,Beginner,Good,General Fitness,1700,28.5,Cardio,Both arms biceps curl
-32,Male,Intermediate,Excellent,Weight Loss,2100,24.8,Cardio,Plank
-37,Female,Advanced,Good,Muscle Gain,2400,23.0,Strength Training,Crunches
-42,Male,Beginner,Fair,General Fitness,1800,29.0,Cardio,Squats
-27,Female,Intermediate,Excellent,Weight Loss,2200,25.2,Cardio,Left arm biceps curl
-30,Male,Advanced,Good,Muscle Gain,2500,23.8,Strength Training,Both arms biceps curl
-35,Female,Beginner,Fair,General Fitness,1900,30.2,Cardio,Plank
-40,Male,Intermediate,Excellent,Weight Loss,2300,26.3,Cardio,Crunches
-45,Female,Advanced,Good,Muscle Gain,2600,22.3,Strength Training,Right arm biceps curl
-25,Female,Beginner,Good,General Fitness,1800,24.0,Cardio,Both arms biceps curl
-45,Male,Advanced,Excellent,Weight Loss,2500,28.5,Cardio,Plank
-30,Male,Intermediate,Fair,Muscle Gain,2200,22.0,Strength Training,Crunches
-35,Female,Intermediate,Good,General Fitness,2000,26.5,Cardio,Squats
-50,Female,Beginner,Good,Weight Loss,1900,29.7,Cardio,Right arm biceps curl
-28,Male,Advanced,Fair,Muscle Gain,2400,24.3,Strength Training,Both arms biceps curl
-60,Female,Intermediate,Excellent,General Fitness,2100,27.0,Cardio,Plank
-32,Male,Advanced,Good,Weight Loss,2300,25.8,Cardio,Crunches
-55,Male,Beginner,Good,Muscle Gain,2600,22.6,Strength Training,Left arm biceps curl
-40,Female,Intermediate,Excellent,General Fitness,2200,26.0,Cardio,Squats
-22,Female,Beginner,Fair,Weight Loss,1800,23.5,Cardio,Right arm biceps curl
-48,Male,Advanced,Good,Muscle Gain,2500,21.7,Strength Training,Plank
-38,Male,Intermediate,Good,General Fitness,2000,25.5,Cardio,Crunches
-52,Female,Beginner,Excellent,Weight Loss,2100,28.3,Cardio,Squats
-33,Male,Advanced,Fair,Muscle Gain,2400,23.2,Strength Training,Both arms biceps curl
-47,Female,Intermediate,Good,General Fitness,1900,27.8,Cardio,Plank
-29,Male,Beginner,Excellent,Weight Loss,2200,24.7,Cardio,Crunches
-44,Female,Advanced,Good,Muscle Gain,2600,22.1,Strength Training,Left arm biceps curl
-36,Male,Intermediate,Fair,General Fitness,2100,26.3,Cardio,Squats
-53,Female,Beginner,Good,Weight Loss,2000,29.0,Cardio,Right arm biceps curl
-27,Male,Advanced,Excellent,Muscle Gain,2500,23.0,Strength Training,Plank
-42,Male,Intermediate,Fair,General Fitness,1900,28.2,Cardio,Crunches
-57,Female,Beginner,Good,Weight Loss,2100,26.8,Cardio,Squats
-31,Female,Advanced,Excellent,Muscle Gain,2400,23.5,Strength Training,Both arms biceps curl
-46,Male,Intermediate,Good,General Fitness,2000,27.7,Cardio,Plank
-23,Male,Advanced,Fair,Weight Loss,1900,22.5,Cardio,Crunches
-49,Female,Beginner,Excellent,Muscle Gain,2300,29.0,Strength Training,Left arm biceps curl
-
+25,1,1,1,1,2000,24.5,0,0
+30,0,2,2,2,2500,21.0,1,1
+35,1,0,0,0,1800,28.0,0,4
+40,0,1,1,1,2000,26.3,0,2
+45,1,2,2,2,2500,22.1,1,3
+28,0,0,1,0,1800,25.0,0,0
+32,1,1,2,2,2500,23.8,1,5
+37,0,0,0,1,1900,27.4,0,4
+42,1,2,1,0,2200,24.9,0,2
+27,0,1,2,1,2000,22.7,0,3
+30,1,2,1,2,2300,25.5,1,0
+35,0,0,0,0,1900,29.8,0,1
+40,1,1,2,1,2100,26.0,0,0
+45,0,2,1,2,2400,23.3,1,5
+28,1,0,0,0,1700,30.2,0,4
+32,0,1,2,1,2200,24.6,0,2
+37,1,2,1,2,2600,22.4,1,3
+42,0,0,1,0,2000,27.7,0,0
+27,1,1,2,1,1900,23.0,0,5
+30,0,2,1,2,2400,25.8,1,1
+35,1,0,0,0,1800,28.5,0,4
+40,0,1,2,1,2100,26.8,0,0
+45,1,2,1,2,2500,22.8,1,3
+28,0,0,1,0,1700,29.0,0,2
+32,1,1,2,1,2000,25.2,0,0
+37,0,2,1,2,2300,23.6,1,5
+42,1,0,0,0,1900,30.5,0,4
+27,0,1,2,1,2200,24.3,0,2
+30,1,2,1,2,2400,25.0,1,3
+35,0,0,0,0,1800,28.9,0,0
+40,1,1,2,1,2200,26.5,0,5
+45,0,2,1,2,2600,22.0,1,1
+28,1,0,0,0,1800,29.8,0,3
+32,0,1,2,1,2100,25.5,0,0
+37,1,2,1,2,2400,23.3,1,5
+42,0,0,1,0,2000,28.2,0,2
+27,1,1,2,1,2000,23.5,0,0
+30,0,2,1,2,2500,24.2,1,5
+35,1,0,0,0,1900,30.0,0,4
+40,0,1,2,1,2100,26.8,0,0
+45,1,2,1,2,2600,22.5,1,3
+28,0,0,1,0,1700,28.5,0,2
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+28,0,0,1,0,1800,29.0,0,3
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+28,0,0,1,0,1700,28.5,0,3
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+28,0,0,1,0,1700,28.5,0,3
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+20,1,0,1,2,1900,25.3,0,4
+20,1,1,1,1,2600,29.8,0,5
+20,1,1,1,1,2500,27.8,0,5
+28,0,0,1,0,1800,29.0,0,3
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+28,0,0,1,0,1700,28.5,0,2
+32,1,1,2,1,2100,25.5,0,0
+37,0,2,1,2,2400,23.3,1,5
+42,1,0,0,0,2000,27.7,0,4
+27,0,1,2,1,2200,24.3,0,2
+30,1,2,1,2,2400,25.0,1,3
+35,0,0,0,0,1800,28.9,0,0
+40,1,1,2,1,2200,26.8,0,0
+45,0,2,1,2,2600,22.0,1,3
+28,0,0,1,0,1800,29.8,0,2
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+28,0,0,1,0,1700,28.5,0,3
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+28,0,0,1,0,1700,28.5,0,3
+32,1,1,2,1,2100,24.8,0,0
+37,0,2,1,2,2400,23.0,1,5
+42,1,0,0,0,1800,29.0,0,4
+27,0,1,2,1,2200,25.2,0,2
+30,1,2,1,2,2500,23.8,1,3
+35,0,0,0,0,1900,30.2,0,0
+40,1,1,2,1,2300,26.3,0,5
+45,0,2,1,2,2600,22.3,1,1
+25,0,1,1,2,2000,24.0,0,4
+45,1,2,2,1,2500,28.5,0,0
+30,1,1,0,0,2200,22.0,1,5
+35,0,1,1,2,2000,26.5,0,2
+50,0,0,1,1,1900,29.7,0,1
+28,1,2,0,2,2400,24.3,1,3
+60,0,1,2,0,2100,27.0,0,0
+32,1,2,0,1,2300,25.8,0,5
+55,1,0,1,2,2600,22.6,1,2
+40,0,1,2,0,2200,26.0,0,4
+22,0,0,0,1,1800,23.5,0,1
+48,1,2,1,2,2500,21.7,1,0
